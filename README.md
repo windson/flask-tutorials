@@ -2,7 +2,7 @@
 ## Checkout this repo and switch to branch
 ```shell
 git clone https://github.com/windson/flask-tutorials.git
-git checkout -b flask-hello-world
+git checkout flask-hello-world
 ```
 ## Create Virtual Environment
 Windows OS
