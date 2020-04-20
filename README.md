@@ -3,7 +3,7 @@
 ```shell
 git clone https://github.com/windson/flask-tutorials.git
 cd flask-tutorials
-git checkout hello-world-flask
+git checkout debug-flask-hello-world-vs-code
 ```
 ## Create Virtual Environment
 Windows OS
