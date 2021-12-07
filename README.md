@@ -1,4 +1,4 @@
-# Hello World Flask Application (VS Code Debug Setup :beetle:)
+# Hello World Flask Application (VS Code Debug Setup 🐛)
 ## Checkout this repo and switch to branch
 ```shell
 git clone https://github.com/windson/flask-tutorials.git
